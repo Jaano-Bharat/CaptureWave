@@ -7,10 +7,10 @@
 <!-- ---------- Badges ---------- -->
   <div align="center">
     <img alt="License" src="https://img.shields.io/github/license/Jaano-Bharat/CaptureWave?color=c3e7ff&style=flat-square">
-    <img alt="Downloads" src="https://img.shields.io/github/downloads/you-apps/RecordYou/total.svg?color=c3e7ff&style=flat-square">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/you-apps/RecordYou?color=c3e7ff&style=flat-square">
-    <img alt="Repo size" src="https://img.shields.io/github/repo-size/you-apps/RecordYou?color=c3e7ff&style=flat-square">
-    <img alt="Stars" src="https://img.shields.io/github/stars/you-apps/RecordYou?color=c3e7ff&style=flat-square">
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/Jaano-Bharat/CaptureWave/total.svg?color=c3e7ff&style=flat-square">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/Jaano-Bharat/CaptureWave?color=c3e7ff&style=flat-square">
+    <img alt="Repo size" src="https://img.shields.io/github/repo-size/Jaano-Bharat/CaptureWave?color=c3e7ff&style=flat-square">
+    <img alt="Stars" src="https://img.shields.io/github/stars/Jaano-Bharat/CaptureWave?color=c3e7ff&style=flat-square">
     <br>
 </div>
 </div>
@@ -30,7 +30,7 @@
 ## Download
 
 <div align="center">
-[<img src="https://raw.githubusercontent.com/vadret/android/master/assets/get-github.png" alt="Get it on GitHub" height="80">](https://github.com/you-apps/RecordYou/releases)
+[<img src="https://raw.githubusercontent.com/vadret/android/master/assets/get-github.png" alt="Get it on GitHub" height="80">](https://github.com/Jaano-Bharat/CaptureWave/releases)
 
 </div>
 
@@ -51,14 +51,9 @@
 * Bug reports and feature requests can be submitted [here](https://github.com/you-apps/RecordYou/issues) (please make sure to fill out all the requested information properly!).
 * If you are a developer and wish to contribute to the app, please **fork** the project and submit a [**pull request**](https://help.github.com/articles/about-pull-requests/).
 
-## Translation
-<a href="https://hosted.weblate.org/projects/you-apps/record-you/">
-<img src="https://hosted.weblate.org/widgets/you-apps/-/record-you/287x66-grey.png" alt="Translation status" />
-</a>
-
 ## Credits
 * Icon design by [M00NJ](https://github.com/M00NJ)
 
 ## License
 
-Record You is licensed under the [**GNU General Public License**](https://www.gnu.org/licenses/gpl.html): You can use, study and share it as you want.
+CaptureWave is licensed under the [**GNU General Public License**](https://www.gnu.org/licenses/gpl.html): You can use, study and share it as you want.
