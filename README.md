@@ -1,12 +1,12 @@
 <!-- ---------- Header ---------- -->
 <div align="center">
-  <img width="200" height="200"src="fastlane/metadata/android/en-US/images/icon.png">
-  <h1>Record You</h1>
-<p>Privacy focused voice and screen recorder app built with MD3.</p>
+  <img width="200" height="200" src="fastlane/metadata/android/en-US/images/icon.png">
+  <h1>CaptureWave</h1>
+<p>Privacy focused voice and screen recorder app built with Material You.</p>
 
 <!-- ---------- Badges ---------- -->
   <div align="center">
-    <img alt="License" src="https://img.shields.io/github/license/you-apps/RecordYou?color=c3e7ff&style=flat-square">
+    <img alt="License" src="https://img.shields.io/github/license/Jaano-Bharat/CaptureWave?color=c3e7ff&style=flat-square">
     <img alt="Downloads" src="https://img.shields.io/github/downloads/you-apps/RecordYou/total.svg?color=c3e7ff&style=flat-square">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/you-apps/RecordYou?color=c3e7ff&style=flat-square">
     <img alt="Repo size" src="https://img.shields.io/github/repo-size/you-apps/RecordYou?color=c3e7ff&style=flat-square">
@@ -14,8 +14,6 @@
     <br>
 </div>
 </div>
-
-Read in other languages: [Japanese](https://github.com/kuragehimekurara1/RecordYou/blob/main/README-ja.md)
 
 <!-- ---------- Description ---------- -->
 ## Features
@@ -32,8 +30,6 @@ Read in other languages: [Japanese](https://github.com/kuragehimekurara1/RecordY
 ## Download
 
 <div align="center">
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.bnyro.recorder/)
 [<img src="https://raw.githubusercontent.com/vadret/android/master/assets/get-github.png" alt="Get it on GitHub" height="80">](https://github.com/you-apps/RecordYou/releases)
 
 </div>
