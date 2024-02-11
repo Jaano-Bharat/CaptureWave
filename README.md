@@ -16,6 +16,7 @@
 </div>
 
 <!-- ---------- Description ---------- -->
+
 ## Features
 
 - [x] Material Design 3 (You)
@@ -27,6 +28,7 @@
 - [X] Written in Jetpack Compose
 
 <!-- ---------- Download ---------- -->
+
 ## Download
 
 <div align="center">
@@ -35,25 +37,32 @@
 </div>
 
 <!-- ---------- Screenshots ---------- -->
+
 ## Screenshots
+
 <div style="display: flex">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1-audio-recorder.png" width="24%">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2-screen-recorder.png" width="24%">  
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3-recordings.png" width="24%">
-  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4-settings.png" width="24%">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="24%">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="24%">  
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="24%">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="24%">
 </div>
 
 <!-- ---------- Contribution ---------- -->
-## Feedback and contributions
+
+## Building the App
+
 ***All contributions are very welcome!***
 
-* Feel free to join the [Matrix room](https://matrix.to/#/#you-apps:matrix.org) for discussions about the app.
-* Bug reports and feature requests can be submitted [here](https://github.com/you-apps/RecordYou/issues) (please make sure to fill out all the requested information properly!).
-* If you are a developer and wish to contribute to the app, please **fork** the project and submit a [**pull request**](https://help.github.com/articles/about-pull-requests/).
+To build the app, you must use Gradle. Its highly recommended to use Android Studio for best
+Experience.
 
 ## Credits
-* Icon design by [M00NJ](https://github.com/M00NJ)
+
+CaptureWave is a Enhanced UI App of [Record You](https://github.com/you-apps/RecordYou)
+
+Some of the UI designs and codes are borrowed from [Seal](https://github.com/JunkFood02/Seal)
 
 ## License
 
-CaptureWave is licensed under the [**GNU General Public License**](https://www.gnu.org/licenses/gpl.html): You can use, study and share it as you want.
+CaptureWave is licensed under the [**GNU General Public License
+**](https://www.gnu.org/licenses/gpl.html): You can use, study and share it as you want.

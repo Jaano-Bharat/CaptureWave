@@ -61,8 +61,8 @@ import com.afi.capturewave.ui.component.CurlyCornerShape
 
 
 const val telegram = "https://t.me/capturewave"
-const val github = "https://github.com/Ashinch/ReadYou"
-const val releases = "https://fonts.google.com/icons"
+const val github = "https://github.com/Jaano-Bharat/CaptureWave"
+const val releases = "https://github.com/Jaano-Bharat/CaptureWave/releases"
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -111,7 +111,6 @@ fun AboutPage(
                             }, onTap = {
                                 if (System.currentTimeMillis() - clickTime > 2000) {
                                     clickTime = System.currentTimeMillis()
-                                    // TODO to show repository
                                     openUrl(releases)
                                 } else {
                                     clickTime = System.currentTimeMillis()
