@@ -1,0 +1,8 @@
+-> V1.0(1)
+-Material Design 3 (You)
+-Dark and light theme
+-Support for audio and screen recording
+-Different available formats and codecs
+-In-app recordings player
+-SAF (Storage Access Framework) support
+-Written in Jetpack Compose

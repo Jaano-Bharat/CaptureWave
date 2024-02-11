@@ -1,0 +1,1 @@
+A privacy-focused application for recording both voice and screen, developed using MD3 (Material Design 3) principles.
