@@ -6,10 +6,8 @@
 
 <!-- ---------- Badges ---------- -->
   <div align="center">
-    <img alt="License" src="https://img.shields.io/github/license/Jaano-Bharat/CaptureWave?color=c3e7ff&style=flat-square">
     <img alt="Downloads" src="https://img.shields.io/github/downloads/Jaano-Bharat/CaptureWave/total.svg?color=c3e7ff&style=flat-square">
     <img alt="Last commit" src="https://img.shields.io/github/last-commit/Jaano-Bharat/CaptureWave?color=c3e7ff&style=flat-square">
-    <img alt="Repo size" src="https://img.shields.io/github/repo-size/Jaano-Bharat/CaptureWave?color=c3e7ff&style=flat-square">
     <img alt="Stars" src="https://img.shields.io/github/stars/Jaano-Bharat/CaptureWave?color=c3e7ff&style=flat-square">
     <br>
 </div>
@@ -32,8 +30,11 @@
 ## Download
 
 <div align="center">
-  [<img src="https://raw.githubusercontent.com/vadret/android/master/assets/get-github.png" alt="Get it on GitHub" height="80">](https://github.com/Jaano-Bharat/CaptureWave/releases)
+  <a href="https://github.com/Jaano-Bharat/CaptureWave/releases">
+    <img src="https://raw.githubusercontent.com/vadret/android/master/assets/get-github.png" alt="Get it on GitHub" height="80">
+  </a>
 </div>
+
 
 
 <!-- ---------- Screenshots ---------- -->
