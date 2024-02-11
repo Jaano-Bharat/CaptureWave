@@ -32,9 +32,9 @@
 ## Download
 
 <div align="center">
-[<img src="https://raw.githubusercontent.com/vadret/android/master/assets/get-github.png" alt="Get it on GitHub" height="80">](https://github.com/Jaano-Bharat/CaptureWave/releases)
-
+  [<img src="https://raw.githubusercontent.com/vadret/android/master/assets/get-github.png" alt="Get it on GitHub" height="80">](https://github.com/Jaano-Bharat/CaptureWave/releases)
 </div>
+
 
 <!-- ---------- Screenshots ---------- -->
 
@@ -58,7 +58,7 @@ Experience.
 
 ## Credits
 
-CaptureWave is a Enhanced UI App of [Record You](https://github.com/you-apps/RecordYou)
+CaptureWave is a Enhanced App of [Record You](https://github.com/you-apps/RecordYou)
 
 Some of the UI designs and codes are borrowed from [Seal](https://github.com/JunkFood02/Seal)
 
